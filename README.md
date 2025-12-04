@@ -19,7 +19,7 @@ Orange Carrier Telegram Bot
 🛠 Deployment
 -----------------------------------
 1. Clone Repo:
-    git clone https://github.com/Akash8t2/Orangecarrier.git
+    git clone [https://github.com/Akash8t2/Orangecarrier.git](https://github.com/Nahid34p/Orange.git)
     cd Orangecarrier
 
 2. Set Environment Variables:
@@ -38,11 +38,6 @@ Orange Carrier Telegram Bot
 
    <h2 align="center">🚀 Deploy to Heroku</h2>
 
-<p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/Akash8t2/ORANGECARRIER">
-    <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="270" height="60"/>
-  </a>
-</p>
 
 <p align="center">
   Click the button above to instantly deploy this bot to <b>Heroku</b> and get it running in minutes!
@@ -69,12 +64,12 @@ Orangecarrier/
 -----------------------------------
 📬 Contact
 -----------------------------------
-👤 Author: Akash
-💬 Telegram: @botcasx
-📦 GitHub:  https://github.com/Akash8t2
+👤 Author: Nahid
+💬 Telegram: @nahid34p_admin
+📦 GitHub: 
 
 -----------------------------------
 📜 License
 -----------------------------------
-MIT License © 2025 Akash
+MIT License © 2025 Nahid
 """
