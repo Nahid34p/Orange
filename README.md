@@ -19,7 +19,7 @@ Orange Carrier Telegram Bot
 🛠 Deployment
 -----------------------------------
 1. Clone Repo:
-    git clone [https://github.com/Akash8t2/Orangecarrier.git](https://github.com/Nahid34p/Orange.git)
+    git clone https://github.com/Nahid34p/Orange.git
     cd Orangecarrier
 
 2. Set Environment Variables:
